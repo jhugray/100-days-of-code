@@ -21,10 +21,9 @@
 
 ### Day 1: June 15 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Reviewed some React on Codecademy, in particular using props.
 
-**Thoughts** 
+**Thoughts**: <3 React
 
 **Link(s) to work**
-<!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+1. [Codecademy React course]([https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/this-props-intro))
