@@ -26,4 +26,16 @@
 **Thoughts**: <3 React
 
 **Link(s) to work**
-1. [Codecademy React course]([https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/this-props-intro))
+1. [Codecademy React course, props](https://www.codecademy.com/courses/react-101/lessons/this-props/exercises/this-props-intro)
+
+
+### Day 2: June 16 Thursday
+
+**Today's Progress**: Reviewed some React on Codecademy, in particular using state. Completed a small React project to create a random color with a button click.
+
+**Thoughts**: <3 React
+
+**Link(s) to work**
+1. [Codecademy React course, state](https://www.codecademy.com/courses/react-101/lessons/this-state/)
+2. [Repo with Random Color Button project](https://github.com/jhugray/learning/tree/main/color-changing-button-codecademy-react)
+<img src="https://user-images.githubusercontent.com/59127869/174145310-46938bde-bea5-4074-8a97-8516cdaf0546.gif" width="500">
