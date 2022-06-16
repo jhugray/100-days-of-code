@@ -33,7 +33,7 @@
 
 **Today's Progress**: Reviewed some React on Codecademy, in particular using state. Completed a small React project to create a random color with a button click.
 
-**Thoughts**: <3 React
+**Thoughts**: Even though I've built projects with React before, it's always good to get a refresher on how props, state, super(props), setState, and this work in React. 
 
 **Link(s) to work**
 1. [Codecademy React course, state](https://www.codecademy.com/courses/react-101/lessons/this-state/)
