@@ -39,3 +39,13 @@
 1. [Codecademy React course, state](https://www.codecademy.com/courses/react-101/lessons/this-state/)
 2. [Repo with Random Color Button project](https://github.com/jhugray/learning/tree/main/color-changing-button-codecademy-react)
 <img src="https://user-images.githubusercontent.com/59127869/174145310-46938bde-bea5-4074-8a97-8516cdaf0546.gif" width="500">
+
+### Day 3: June 17 Friday
+
+**Today's Progress**: 2 algorithm challenges on Coderbytes. 
+
+**Thoughts**: I definitely need to work on algorithms more. I got there in the end, but it was a  struggle - and they just instill a sense of anxiety in me that I don't get when building something. I think it's the "test" like feel. Oh well - it's exciting to have something to work on as I am sure if I keep practicing I will learn a ton and see improvements! 
+
+I am only planning on doing the challenge Monday - Friday to ensure I am available and present for/with my family. I'm excited to get back to things next week!
+
+
