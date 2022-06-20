@@ -49,3 +49,14 @@
 **Thoughts**: I definitely need to work on algorithms more. I got there in the end, but it was a  struggle - and they just instill a sense of anxiety in me that I don't get when building something. I think it's the "test" like feel. Oh well - it's exciting to have something to work on as I am sure if I keep practicing I will learn a ton and see improvements! 
 
 I am only planning on doing the challenge Monday - Friday to ensure I am available and present for/with my family. I'm excited to get back to things next week!
+
+## Day 4: June 20 Monday
+
+**Today's Progress**: I went back to an old project, reviewed my old code, and began to make some improvements to the css. I plan on working on this project more this week and used today to refamiliarize myself with it. 
+
+**Thoughts**: I don't love the look of this project. I'm going to get make some functional improvements and then may do a total front end rehaul. 
+
+**Link(s) to work**
+
+1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
+2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
