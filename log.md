@@ -60,3 +60,14 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
 2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
+
+## Day 5: June 21 Tuesday
+
+**Today's Progress**: I made it so user input will be saved by hitting enter, or clicking the save button. I also began to implement a new feature - Goals - a list of high priority to-do's. 
+
+**Thoughts**: Due to illness (my own and my family's) I had to take a step back from coding - but it feels so good to be back building something!
+
+**Link(s) to work**
+
+1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
+2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
