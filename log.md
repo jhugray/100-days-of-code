@@ -71,3 +71,20 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
 2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
+
+
+## Day 6: June 22 Wednesday
+
+**Today's Progress**: Working on CRUD routes for a new feature in my project, Goals. The update/put route needs some more work but the rest are working well after some testing in Insomnia. 
+
+**Thoughts**: Although I'd love to just hook up the new routes into the front end right away, I see the benefit from testing them in Insomnia first and playing around there. 
+
+**Link(s) to work**
+
+1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
+2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
+<img src="https://user-images.githubusercontent.com/59127869/175143783-98f9fc63-ff9b-403e-a7b9-3be7283764a5.png" width="700">
+
+
+
+
