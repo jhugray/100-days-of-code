@@ -86,5 +86,17 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 <img src="https://user-images.githubusercontent.com/59127869/175143783-98f9fc63-ff9b-403e-a7b9-3be7283764a5.png" width="700">
 
 
+## Day 7: June 23 Thursday
+
+**Today's Progress**: I attended Front-End Test Fest - an event talking about front end testing, frameworks, and accessibility. 
+
+**Thoughts**: I took a lot away from the accessibility component. There are a lot of resources around accessibility and accessibility testing I plan on using in my future work. I tested a current project which identified areas where I can improve upon and I'm excited to incorporate the recommendations to make my project accessible. 
+
+**Link(s) to work**
+
+1. [Front End Test Fest](https://applitools.com/front-endtestfest/?utm_source=influencer&utm_medium=organic-social&utm_content=virtual-event&utm_term=220623-fetf-netlify-linkedin&utm_campaign=220623-fetf)
+<img src="https://user-images.githubusercontent.com/59127869/175389938-6c7b8d45-b702-4ba5-a8d7-d23715b9e07d.jpeg" width="500">
+
+
 
 
