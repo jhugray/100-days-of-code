@@ -98,5 +98,18 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 <img src="https://user-images.githubusercontent.com/59127869/175389938-6c7b8d45-b702-4ba5-a8d7-d23715b9e07d.jpeg" width="500">
 
 
+## Day 8: June 27 Monday
+
+**Today's Progress**: I ran accessability audits on my Cherryplanner app and refactored to meet the WCAG 2.1 level AA. The capp went from semi complianct to compliant! 
+
+**Thoughts**: I want to continue to think about a11y as I code. 
+
+**Link(s) to work**
+
+1. [AccessiBe Accessibility Audit](https://accessibe.com/)
+2. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
+3. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
+<img src="https://user-images.githubusercontent.com/59127869/176027514-cdab5aed-2465-4cac-b27f-b2939caac14f.png" width="500" alt="White badge with a green checkmark and text that says Compliant, compliant with the WCAG 2.1 Level AA">
+
 
 
