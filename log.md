@@ -112,4 +112,14 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 <img src="https://user-images.githubusercontent.com/59127869/176027514-cdab5aed-2465-4cac-b27f-b2939caac14f.png" width="500" alt="White badge with a green checkmark and text that says Compliant, compliant with the WCAG 2.1 Level AA">
 
 
+## Day 9: June 29 Wednesday
+
+**Today's Progress**: I got the backend API routes for a new feature in my project completed, and begun to bring them to the front end. Today was a short day as I am busy with family commitments. 
+
+**Thoughts**: Not a super productive day but I really enjoyed the coding time I had. 
+
+**Link(s) to work**
+
+1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
+2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
 
