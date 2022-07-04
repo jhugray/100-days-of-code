@@ -123,3 +123,11 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 1. [Cherryplanner, deployed app](https://cherryplanner.herokuapp.com/)
 2. [Cherryplanner, repo](https://github.com/jhugray/cherryplanner)
 
+## Day 10: July 4 Monday
+
+**Today's Progress**: Working on some API routes.
+
+**Thoughts**: Back at it after a few days away with family. 
+
+
+
