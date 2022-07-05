@@ -129,5 +129,15 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 **Thoughts**: Back at it after a few days away with family. 
 
+## Day 11: July 5 Tuesday
+
+**Today's Progress**: I worked on a GET and PATCH API route as part of a take home assignment, and did some work on a carousel image slider that is accessible - ie works well for users on screen readers etc. 
+
+**Thoughts**: I am finding that coding with a11y in mind can complicate things - and as a result I learn a lot. I want my products to provide ALL users with an excellent user experience. 
+
+**Link(s) to work**
+
+1. [House Hunt](https://github.com/jhugray/househunt)
+
 
 
