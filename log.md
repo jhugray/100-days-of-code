@@ -139,5 +139,17 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 1. [House Hunt](https://github.com/jhugray/househunt)
 
+## Day 12: July 6 Wednesday
+
+**Today's Progress**: I worked on a take home assignment using Typescript, APIs, and React. I also used Yarn instead of my usual NPM.
+
+**Thoughts**: I didn't finish in the prescribed time. I hit some road blocks - but it was great for identifying learning opportunities. It was also really fun to learn how to use Yarn instead of NPM which I usually use, and to code a bit in Typescript, something else that was new to me. I wish I could blame the new tech for my roadblock, but that part I actually did well with, it was something I took for granted that I could easily do that caused me to run into issues. It was disappointing because I was really excited about the opportunity at this company - but it was a great learning opportunity, and I accomplished a lot more than I could have done a few months ago.  
+
+**Link(s) to work**
+
+1. N/A 
+
+
+
 
 
