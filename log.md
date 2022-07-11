@@ -149,7 +149,21 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 1. N/A 
 
+## Day 13: July 11 Monday
 
+**Today's Progress**: HTML5 & CSS3 work. I'm playing around with vanilla CSS as I've been using a lot of CSS frameworks and want to make sure I still have a strong handle on vanilla CSS. I had been trying to implement an accessible image slider/carousel, but after reading more on sliders and a11y and UX I decided the better a11y option would be to design my page without them. 
 
+**Thoughts**: I really love transforming a page by making CSS changes. 
+
+**Link(s) to work**
+
+1. [House Hunt](https://github.com/jhugray/househunt)
+
+### Before:
+<img width="700" alt="Screen Shot of a webpage before CSS changes made" src="https://user-images.githubusercontent.com/59127869/178338917-d78827d1-c270-4688-bef4-92fff2e9d156.png">
+
+### After:
+<img width="700" alt="Screen Shot of a webpage after CSS changes made" src="https://user-images.githubusercontent.com/59127869/178339153-fbb51f0e-e3b3-4274-875c-368843ec8e6c.png">
+<img width="700" alt="Screen Shot of a webpage after CSs changes madeM" src="https://user-images.githubusercontent.com/59127869/178339257-c1fcb61e-cebf-4f91-9464-a92fb6bb92f0.png">
 
 
