@@ -163,7 +163,21 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 <img width="700" alt="Screen Shot of a webpage before CSS changes made" src="https://user-images.githubusercontent.com/59127869/178338917-d78827d1-c270-4688-bef4-92fff2e9d156.png">
 
 ### After:
-<img width="700" alt="Screen Shot of a webpage after CSS changes made" src="https://user-images.githubusercontent.com/59127869/178339153-fbb51f0e-e3b3-4274-875c-368843ec8e6c.png">
-<img width="700" alt="Screen Shot of a webpage after CSs changes madeM" src="https://user-images.githubusercontent.com/59127869/178339257-c1fcb61e-cebf-4f91-9464-a92fb6bb92f0.png">
+<img width="500" alt="Screen Shot of a webpage after CSS changes made" src="https://user-images.githubusercontent.com/59127869/178339153-fbb51f0e-e3b3-4274-875c-368843ec8e6c.png">
+<img width="500" alt="Screen Shot of a webpage after CSs changes madeM" src="https://user-images.githubusercontent.com/59127869/178339257-c1fcb61e-cebf-4f91-9464-a92fb6bb92f0.png">
+
+
+## Day 14: July 12 Tuesday
+
+**Today's Progress**: More vanilla HTML5 & CSS3 - it's fun to use some vanilla CSS to style after using a lot of frameworks. I refactored my search after reading up on accessibility and form inputs. I also made a logo to replace the emoji placeholder I had in the navbar and it looks a lot better. I still want to work on the search form as I think the look can improve for better readability and UX. 
+
+**Thoughts**: <3 front end. It's fun to get to use my creative/design side.
+
+**Link(s) to work**
+
+1. [House Hunt](https://github.com/jhugray/househunt)
+
+### After redesign & refactor VS Before:
+<img width="900" alt="Before and after screenshots of a website redesign, 4 images total. Top  left shows a revised nav bar with a logo added. Top right shows before where previously there was an emoji placeholder instead of the logo. Bottom left shows a revised search feature with options grouped and all options labelled. Bottom right shows the before with unlabelled and unorganized search options." src="https://user-images.githubusercontent.com/59127869/178592156-f149bc3e-a1f5-46d2-ad6c-8c1d88bde3b5.png">
 
 
