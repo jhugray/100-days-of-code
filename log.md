@@ -181,3 +181,23 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 <img width="900" alt="Before and after screenshots of a website redesign, 4 images total. Top  left shows a revised nav bar with a logo added. Top right shows before where previously there was an emoji placeholder instead of the logo. Bottom left shows a revised search feature with options grouped and all options labelled. Bottom right shows the before with unlabelled and unorganized search options." src="https://user-images.githubusercontent.com/59127869/178592156-f149bc3e-a1f5-46d2-ad6c-8c1d88bde3b5.png">
 
 
+## Day 15: July 18 Monday
+
+**Today's Progress**: Short day due to long drive. Got back into CS50 - C.
+
+**Thoughts**: I'm excited to do some coding in C!
+
+**Link(s) to work**
+
+1. https://cs50.harvard.edu/x/2022/weeks/1/
+
+## Day 16: July 19 Tuesday
+
+**Today's Progress**: Finished the CS50 lectures and began working on the problems. 
+
+**Thoughts**: Some of the CS concepts are basics I'm already familiar with but it's fun to learn a bit of C. 
+
+**Link(s) to work**
+
+1. https://cs50.harvard.edu/x/2022/weeks/1/
+
