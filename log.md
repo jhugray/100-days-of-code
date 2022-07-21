@@ -201,3 +201,23 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 
 1. https://cs50.harvard.edu/x/2022/weeks/1/
 
+
+## Day 17: July 20 Wednesday
+
+**Today's Progress**: Worked on CS50 problems in C. Also made some CSS updates to a project. 
+
+**Thoughts**: Its fun to code in C. 
+
+**Link(s) to work**
+
+1. https://cs50.harvard.edu/x/2022/weeks/1/
+
+## Day 18: July 21 Thursday
+
+**Today's Progress**: Worked on CS50 problems in C.
+
+**Thoughts**: Short day today due to kid home sick, and me being sick. 
+
+**Link(s) to work**
+
+1. https://cs50.harvard.edu/x/2022/weeks/1/
