@@ -221,3 +221,13 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 **Link(s) to work**
 
 1. https://cs50.harvard.edu/x/2022/weeks/1/
+
+## Day 19: July 22 Friday
+
+**Today's Progress**: Redid my Resume and then updated my Github profile, and Portfolio website with the updated version.
+
+**Thoughts**: Why do resumes take so long???!  
+
+**Link(s) to work**
+
+1. [My resume on Creddle](https://resume.creddle.io/resume/228g5icmwn9)
