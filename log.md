@@ -231,3 +231,13 @@ I am only planning on doing the challenge Monday - Friday to ensure I am availab
 **Link(s) to work**
 
 1. [My resume on Creddle](https://resume.creddle.io/resume/228g5icmwn9)
+
+
+## Day 20: July 25 Monday
+**Today's Progress**: CS50 work, used Luhn's algorithm to validate credit card numbers in C.
+
+**Thoughts**: My first time using Modulo operators in my code!
+
+**Link(s) to work**
+
+1. [CS50 Credit problem](https://cs50.harvard.edu/x/2022/psets/1/credit/)
